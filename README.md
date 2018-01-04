@@ -1,5 +1,5 @@
 # doujiang
-A video compression tool
+A video recoding and compression tool
 
 Download here: https://github.com/YLiLarry/doujiang/releases
 
