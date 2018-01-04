@@ -1,4 +1,4 @@
-# doujiang
+# 豆浆转码（工具）Doujiang
 A video recoding and compression tool
 
 Download here: https://github.com/YLiLarry/doujiang/releases
